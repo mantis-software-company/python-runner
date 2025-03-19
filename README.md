@@ -1,5 +1,7 @@
 # Python Runner
 
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/mantis-software-company/python-runner/docker-build.yml)
+
 A flexible Docker-based Python runner that simplifies deployment and execution of Python applications with configurable environments.
 
 ## Available Images
